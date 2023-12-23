@@ -2,11 +2,11 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 {
-    'name': 'Custom Title Header & Logo',
+    'name': 'Custom Favicon and Title',
     'version': '16.0.0',
     'sequence': 1,
     'summary': """
-        Custom shortcut title
+        Custom Favicon and Title
     """,
     'description': "Choose your own Title to display on the browser header.",
     'author': 'bdtask',
