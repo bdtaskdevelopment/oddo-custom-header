@@ -2,7 +2,7 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 {
-    'name': 'Customize Title Header & Logo',
+    'name': 'Custom Title Header & Logo',
     'version': '16.0.0',
     'sequence': 1,
     'summary': """
