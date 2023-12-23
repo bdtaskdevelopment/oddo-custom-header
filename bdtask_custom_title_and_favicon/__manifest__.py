@@ -27,7 +27,7 @@
     ],
     'assets': {
         'web.assets_backend_prod_only': [
-            'bdtask_customize_header_title_logo/static/src/js/favicon.js',
+            'bdtask_custom_title_and_favicon/static/src/js/favicon.js',
         ],
     },
     'demo': [
