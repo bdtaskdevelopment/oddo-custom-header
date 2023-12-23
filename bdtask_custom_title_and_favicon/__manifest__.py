@@ -16,7 +16,7 @@
     'website': 'https://www.bdtask.com/',
     'license': 'LGPL-3',
     'images': [
-        'static/description/icon.png'
+        'static/description/banner_icon.png'
     ],
     'depends': [
         'web'
