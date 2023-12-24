@@ -3,7 +3,7 @@
 
 {
     'name': 'Custom Title and Favicon',
-    'version': '16.0.3',
+    'version': '16.0.4',
     'sequence': 1,
     'summary': """
         Custom Title and Favicon
