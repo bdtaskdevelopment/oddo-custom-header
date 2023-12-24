@@ -3,12 +3,12 @@
 
 {
     'name': 'Custom Title and Favicon',
-    'version': '16.0.0',
+    'version': '16.0.1',
     'sequence': 1,
     'summary': """
         Custom Title and Favicon
     """,
-    'description': "Choose your own Title to display on the browser header.",
+    'description': "",
     'author': 'bdtask',
     'maintainer': 'bdtask',
     'price': '0.0',
