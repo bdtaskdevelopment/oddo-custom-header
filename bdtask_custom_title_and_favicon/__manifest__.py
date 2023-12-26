@@ -3,7 +3,7 @@
 
 {
     'name': 'Custom Title and Favicon',
-    'version': '16.0.9',
+    'version': '16.0.0',
     'sequence': 1,
     'summary': """
         Custom Title and Favicon
@@ -16,7 +16,7 @@
     'website': 'https://www.bdtask.com/',
     'license': 'LGPL-3',
     'images': [
-        'static/description/banner03.png'
+        'static/description/banner.png'
     ],
     'depends': [
         'web'
